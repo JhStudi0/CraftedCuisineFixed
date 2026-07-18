@@ -1,0 +1,6 @@
+// 1.21.1	2026-07-18T21:40:50.8111616	Crafted Cuisine/Block Loot Tables
+a3118b2509cc48132d309c8f4e57a8c7d4adbbf6 data\craftedcuisine\loot_table\blocks\vanilla_bean_crop.json
+0b75cc7f0a646ebff80fa2659925711d66c346d5 data\craftedcuisine\loot_table\blocks\yeast_jar.json
+92b1e8620551558623dd12f4cdc13d6c1d502967 data\craftedcuisine\loot_table\blocks\corn_crop.json
+b6e3900574ca66d84b05e7bb2c97fa12a7661a4c data\craftedcuisine\loot_table\blocks\rice_crop.json
+9112da6cdab566435ac39b3aa2eaffe0c098ec6e data\craftedcuisine\loot_table\blocks\tomato_crop.json

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "craftedcuisine:vanilla_bean"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "craftedcuisine:vanilla_seeds"
+  }
+}

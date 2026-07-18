@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "craftedcuisine:tomato"
+    },
+    {
+      "item": "craftedcuisine:tomato"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "craftedcuisine:tomato_sauce"
+  }
+}

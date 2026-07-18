@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_dark_chocolate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "craftedcuisine:dark_chocolate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "craftedcuisine:dark_chocolate_apple"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_dark_chocolate"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "craftedcuisine:dark_chocolate_apple"
+    ]
+  }
+}

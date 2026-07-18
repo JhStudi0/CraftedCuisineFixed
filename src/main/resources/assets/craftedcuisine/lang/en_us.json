@@ -1,0 +1,47 @@
+{
+  "item.craftedcuisine.corn": "Corn Cob",
+  "item.craftedcuisine.corn_seeds": "Corn Seeds",
+  "item.craftedcuisine.popcorn": "Popcorn",
+
+  "item.craftedcuisine.tomato_seeds": "Tomato Seeds",
+  "item.craftedcuisine.tomato": "Tomato",
+  "item.craftedcuisine.tomato_sauce": "Tomato Sauce",
+
+  "item.craftedcuisine.vanilla_seeds": "Vanilla Bean Seeds",
+  "item.craftedcuisine.vanilla_bean": "Vanilla Bean",
+
+  "item.craftedcuisine.honey_cookie": "Honey Cookie",
+
+  "item.craftedcuisine.butter": "Butter",
+
+  "item.craftedcuisine.poppy_seeds": "Poppy Seeds",
+
+  "item.craftedcuisine.rice_seeds": "Rice",
+  "item.craftedcuisine.rice_bowl": "Bowl of Rice",
+
+  "item.craftedcuisine.milk_chocolate": "Milk Chocolate",
+  "item.craftedcuisine.dark_chocolate": "Dark Chocolate",
+  "item.craftedcuisine.white_chocolate": "White Chocolate",
+
+  "item.craftedcuisine.chocolate_cake": "Chocolate Cake",
+
+  "item.craftedcuisine.milk_chocolate_apple": "Milk Chocolate covered Apple",
+  "item.craftedcuisine.dark_chocolate_apple": "Dark Chocolate covered Apple",
+  "item.craftedcuisine.white_chocolate_apple": "White Chocolate covered Apple",
+
+  "item.craftedcuisine.rock": "Rock",
+
+  "item.craftedcuisine.jar": "Jar",
+  "block.craftedcuisine.yeast_jar": "Jar of Yeast",
+  "item.craftedcuisine.fermented_yeast_jar": "Jar of Fermented Yeast",
+
+  "item.craftedcuisine.salt": "Salt",
+  "item.craftedcuisine.flour": "Flour",
+
+  "itemgroup.craftedcuisine.crafted_cuisine_items": "Crafted Cuisine",
+
+  "block.craftedcuisine.cooking_pot": "Cooking Pot",
+  "block.craftedcuisine.corn_grinder": "Corn Grinder",
+
+  "entity.craftedcuisine.rock": "rock"
+}
